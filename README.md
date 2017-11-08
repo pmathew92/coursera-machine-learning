@@ -2,6 +2,7 @@ These are the programming assignments from Coursera's Machine Learning course ta
 
 Include:
 - Linear Regression (one variable and multiple variables)
+- Logistic Regression & Regularization
 
 
 
