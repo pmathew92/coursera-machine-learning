@@ -4,6 +4,8 @@ Include:
 - Linear Regression (one variable and multiple variables)
 - Logistic Regression & Regularization
 - Multi-class Classification and Neural Networks
+- Neural Network Learning
+- Regularized Linear Regression and Bias/Variance
 
 
 
