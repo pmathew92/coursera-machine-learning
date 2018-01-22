@@ -7,6 +7,7 @@ Include:
 - Neural Network Learning
 - Regularized Linear Regression and Bias/Variance
 - Support Vector Machines
+- K-Means Clustering and PCA
 
 
 
